@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
+using System.Threading.Tasks;;
 namespace Tyuiu.LavrentevVA.Sprint0.Task0.V0
 {
     class Program
     {
         static void Main(string[] args)
-        {
+        {  
         }
     }
 }
